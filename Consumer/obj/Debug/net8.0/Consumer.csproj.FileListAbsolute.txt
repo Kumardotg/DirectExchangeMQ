@@ -1,0 +1,17 @@
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/obj/Debug/net8.0/Consumer.csproj.AssemblyReference.cache
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/obj/Debug/net8.0/Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/obj/Debug/net8.0/Consumer.AssemblyInfoInputs.cache
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/obj/Debug/net8.0/Consumer.AssemblyInfo.cs
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/obj/Debug/net8.0/Consumer.csproj.CoreCompileInputs.cache
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/bin/Debug/net8.0/Consumer
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/bin/Debug/net8.0/Consumer.deps.json
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/bin/Debug/net8.0/Consumer.runtimeconfig.json
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/bin/Debug/net8.0/Consumer.dll
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/bin/Debug/net8.0/Consumer.pdb
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/obj/Debug/net8.0/Consumer.csproj.Up2Date
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/obj/Debug/net8.0/Consumer.dll
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/obj/Debug/net8.0/refint/Consumer.dll
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/obj/Debug/net8.0/Consumer.pdb
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/obj/Debug/net8.0/Consumer.genruntimeconfig.cache
+/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/obj/Debug/net8.0/ref/Consumer.dll

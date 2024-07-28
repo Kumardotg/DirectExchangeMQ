@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kyw7cKTHefb7FZdIEIRBYavqT7t0DGBtvUe2HQz1WfCUTjxPjZz7XwoMtS3OxdzLJKpJ2YTdFkVfdZ80XcZWww==",
+  "success": true,
+  "projectFilePath": "/Users/abhinaykumargunna/Study/RabbitMQ/Projects/Project1/Consumer/Consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/abhinaykumargunna/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/abhinaykumargunna/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/abhinaykumargunna/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
